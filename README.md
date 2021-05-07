@@ -20,14 +20,8 @@ Accurate flight delay prediction is fundamental to establish the more efficient 
 ## Project flow:
 ![Screenshot (11)](https://user-images.githubusercontent.com/66320109/117086158-18cadd80-ad4c-11eb-8059-b47c79f6517d.png)
 
-## HARDWARE & SOFTWARE REQUIREMENTS
-### H/W Configuration:
-•	Processor            	             	- I3/Intel Processor
-•	RAM                                       - 4GB (min)
-•	Hard Disk                                - 128 GB
-•	Key Board                               - Standard Windows Keyboard
-•	Mouse                                      - Two or Three Button Mouse
-•	Monitor                                    - Any
+## SOFTWARE REQUIREMENTS
+
 ### S/W Configuration:
 •	Operating System             	: Windows 7+		
 •	Server side Script            : Python 3.6+
